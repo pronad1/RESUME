@@ -1,0 +1,34 @@
+{
+  "mode": "disable",
+  "sync": false,
+  "autoBackup": false,
+  "passthrough": "",
+  "theme": "",
+  "container": {},
+  "commands": {
+    "excludeHost": "",
+    "includeHost": "",
+    "setProxy": "",
+    "setTabProxy": ""
+  },
+  "data": [
+    {
+      "active": true,
+      "cc": "BD",
+      "city": "Patuakhali",
+      "color": "#f4a460",
+      "exclude": [],
+      "hostname": "cse.pstu.ac.bd",
+      "include": [],
+      "pac": "",
+      "pacString": "",
+      "password": "proxy@PSTU",
+      "port": "3128",
+      "proxyDNS": true,
+      "tabProxy": [],
+      "title": "PSTU",
+      "type": "http",
+      "username": "default"
+    }
+  ]
+}
